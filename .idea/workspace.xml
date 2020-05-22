@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60467ccd-9ed4-4d22-b3de-e08ba2ca1cc0" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>changed</find>
+      <find>setChange</find>
+    </findStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XjizFrzOWP7eEXdgUi9kQssxvR" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wzj.strategy" />
+      <recent name="com.wzj.singleton" />
+      <recent name="com.wzj.visitor.example2" />
+      <recent name="com.wzj.state.example1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\zuoyou\design-patterns\src\main\java\com\wzj" />
+      <recent name="D:\zuoyou\design-patterns\src\main\java\com\wzj\state\example2\v2" />
+      <recent name="D:\zuoyou\design-patterns\src\main\java\com\wzj\chainOfResponsibility\example1\v4" />
+      <recent name="D:\zuoyou\design-patterns\src\main\java\com\wzj\chainOfResponsibility\example1\v3" />
+      <recent name="D:\zuoyou\design-patterns\src\main\java\com\wzj\chainOfResponsibility\example1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestComparator">
+    <configuration name="DoubleCheckedThreadSafeSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wzj.singleton.DoubleCheckedThreadSafeSingleton" />
+      <module name="design-patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzj.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wzj.singleton.EnumSingleton" />
+      <module name="design-patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzj.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InnerStaticClassSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wzj.singleton.InnerStaticClassSingleton" />
+      <module name="design-patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzj.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wzj.strategy.TestComparator" />
+      <module name="design-patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzj.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStrategy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wzj.strategy.TestStrategy" />
+      <module name="design-patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wzj.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DoubleCheckedThreadSafeSingleton" />
+      <item itemvalue="Application.InnerStaticClassSingleton" />
+      <item itemvalue="Application.EnumSingleton" />
+      <item itemvalue="Application.TestStrategy" />
+      <item itemvalue="Application.TestComparator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestComparator" />
+        <item itemvalue="Application.TestStrategy" />
+        <item itemvalue="Application.EnumSingleton" />
+        <item itemvalue="Application.InnerStaticClassSingleton" />
+        <item itemvalue="Application.DoubleCheckedThreadSafeSingleton" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60467ccd-9ed4-4d22-b3de-e08ba2ca1cc0" name="Default" comment="" />
+      <created>1567847897078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567847897078</updated>
+      <workItem from="1567847902965" duration="375000" />
+      <workItem from="1567854485506" duration="14403000" />
+      <workItem from="1567899981266" duration="10239000" />
+      <workItem from="1568208635067" duration="6155000" />
+      <workItem from="1569144003641" duration="14610000" />
+      <workItem from="1569657368822" duration="6428000" />
+      <workItem from="1569678231770" duration="799000" />
+      <workItem from="1569720236593" duration="4000" />
+      <workItem from="1570085290988" duration="17664000" />
+      <workItem from="1570497508704" duration="4816000" />
+      <workItem from="1571663116150" duration="5550000" />
+      <workItem from="1572786613649" duration="5819000" />
+      <workItem from="1572833362261" duration="2577000" />
+      <workItem from="1572871312089" duration="5421000" />
+      <workItem from="1572968943537" duration="595000" />
+      <workItem from="1574172800976" duration="599000" />
+      <workItem from="1574597832310" duration="588000" />
+      <workItem from="1574775547063" duration="961000" />
+      <workItem from="1575039877853" duration="571000" />
+      <workItem from="1577878797999" duration="3822000" />
+      <workItem from="1577890709431" duration="7000" />
+      <workItem from="1581566165921" duration="18246000" />
+      <workItem from="1581601023530" duration="156000" />
+      <workItem from="1581601205132" duration="203000" />
+      <workItem from="1581601446140" duration="8604000" />
+      <workItem from="1588683796247" duration="12273000" />
+      <workItem from="1589789992794" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wzj/chainOfResponsibility/example1/v3/TestV3.java</url>
+          <line>15</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wzj/chainOfResponsibility/example1/v3/MyFilterChain.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wzj/chainOfResponsibility/example1/v3/EducationalBackGroundFilter.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wzj/chainOfResponsibility/example1/v3/HeightFliter.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wzj/chainOfResponsibility/example2/TestDiscountFilter.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wzj/chainOfResponsibility/example2/FullDiscountFilter.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wzj/chainOfResponsibility/example2/FirstPurchaseDiscount.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wzj/chainOfResponsibility/example2/SecondPurchaseDiscountFilter.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wzj/chainOfResponsibility/example2/HolidayDiscountFilter.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wzj/state/example2/v2/Client.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
