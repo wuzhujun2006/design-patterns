@@ -1,7 +1,5 @@
 package com.wzj.proxy.v7;
 
-import com.wzj.proxy.v6.AppleLogProxy;
-import com.wzj.proxy.v6.AppleTimeProxy;
 
 import java.lang.reflect.InvocationHandler;
 
