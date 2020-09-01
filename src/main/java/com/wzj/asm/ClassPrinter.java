@@ -44,7 +44,6 @@ public class ClassPrinter extends ClassVisitor {
 
     public static void main(String[] args) throws IOException {
         ClassPrinter cp = new ClassPrinter();
-//        ClassReader cr = new ClassReader("java.lang.Runnable");
         ClassReader cr = new ClassReader(
                 ClassPrinter.class.getClassLoader().getResourceAsStream("com/wzj/asm/T1.class"));
 
