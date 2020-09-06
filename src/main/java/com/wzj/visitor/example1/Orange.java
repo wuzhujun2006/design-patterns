@@ -1,7 +1,5 @@
 package com.wzj.visitor.example1;
 
-import com.wzj.proxy.v8.Discount;
-
 /**
  * @Author: wzj
  * @Date: 2020/8/4 20:45

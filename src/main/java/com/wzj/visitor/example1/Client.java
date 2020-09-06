@@ -1,7 +1,5 @@
 package com.wzj.visitor.example1;
 
-import org.aspectj.weaver.ast.Or;
-
 /**
  * @Author: wzj
  * @Date: 2020/9/2 20:57
