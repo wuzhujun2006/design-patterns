@@ -15,7 +15,7 @@ public class Client {
         // 苹果纸箱包装后，外加防伪标识、加固包装
         new ReinforceBagDecorator(new CheckedBagDecorator(appleBag)).pack();
         System.out.println("*********************************");
-        // 橘子网兜包装后，外加防伪标识、加固包装
+        // 橘子网兜包装后，外加防伪标识、加急包装
         new SpeedBagDecorator(new ReinforceBagDecorator(new CheckedBagDecorator(orangeBag))).pack();
 
     }
